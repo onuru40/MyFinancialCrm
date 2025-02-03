@@ -20,11 +20,12 @@ Bankalar
 
 Dashboard
 
-![image](https://github.com/user-attachments/assets/9898ac99-0377-4837-a829-4dad2c3e8088)
+![image](https://github.com/user-attachments/assets/a4af9585-da98-4a1d-bce4-0d166376aaa1)
 
 Ayarlar
 
-![image](https://github.com/user-attachments/assets/7e26509d-9239-4c47-9073-f5832cdafd57)
+![image](https://github.com/user-attachments/assets/4434d9c3-bda0-49d9-86fd-a48a1a0532fe)
+
 
 
 
