@@ -100,7 +100,7 @@
             this.panel5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(155)))), ((int)(((byte)(89)))), ((int)(((byte)(182)))));
             this.panel5.Controls.Add(this.lblLastBankProcessAmount);
             this.panel5.Controls.Add(this.label7);
-            this.panel5.Location = new System.Drawing.Point(664, 58);
+            this.panel5.Location = new System.Drawing.Point(671, 58);
             this.panel5.Name = "panel5";
             this.panel5.Size = new System.Drawing.Size(214, 100);
             this.panel5.TabIndex = 10;
@@ -132,7 +132,7 @@
             this.panel4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(52)))), ((int)(((byte)(152)))), ((int)(((byte)(219)))));
             this.panel4.Controls.Add(this.lblBillAmount);
             this.panel4.Controls.Add(this.lblBillTitle);
-            this.panel4.Location = new System.Drawing.Point(433, 58);
+            this.panel4.Location = new System.Drawing.Point(437, 58);
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(214, 100);
             this.panel4.TabIndex = 9;
@@ -321,7 +321,7 @@
             series1.Legend = "Legend1";
             series1.Name = "Series1";
             this.chart1.Series.Add(series1);
-            this.chart1.Size = new System.Drawing.Size(333, 219);
+            this.chart1.Size = new System.Drawing.Size(334, 219);
             this.chart1.TabIndex = 11;
             this.chart1.Text = "chart1";
             // 
@@ -331,7 +331,7 @@
             this.panel6.Controls.Add(this.label3);
             this.panel6.Location = new System.Drawing.Point(202, 171);
             this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(333, 57);
+            this.panel6.Size = new System.Drawing.Size(334, 57);
             this.panel6.TabIndex = 12;
             // 
             // label3
@@ -339,20 +339,20 @@
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label3.ForeColor = System.Drawing.Color.Black;
-            this.label3.Location = new System.Drawing.Point(15, 15);
+            this.label3.Location = new System.Drawing.Point(3, 15);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(296, 30);
+            this.label3.Size = new System.Drawing.Size(265, 30);
             this.label3.TabIndex = 6;
-            this.label3.Text = "Bankalar ve banka hesaplarındaki para miktarlarına\r\naşağıdaki grafikten ulaşabili" +
-    "rsiniz";
+            this.label3.Text = "Bankalar ve banka hesaplarındaki para \r\nmiktarlarına aşağıdaki grafikten ulaşabil" +
+    "irsiniz";
             // 
             // panel7
             // 
             this.panel7.BackColor = System.Drawing.Color.Silver;
             this.panel7.Controls.Add(this.label4);
-            this.panel7.Location = new System.Drawing.Point(545, 171);
+            this.panel7.Location = new System.Drawing.Point(551, 171);
             this.panel7.Name = "panel7";
-            this.panel7.Size = new System.Drawing.Size(333, 57);
+            this.panel7.Size = new System.Drawing.Size(334, 57);
             this.panel7.TabIndex = 13;
             // 
             // label4
@@ -360,7 +360,7 @@
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.label4.ForeColor = System.Drawing.Color.Black;
-            this.label4.Location = new System.Drawing.Point(5, 15);
+            this.label4.Location = new System.Drawing.Point(3, 15);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(256, 30);
             this.label4.TabIndex = 7;
@@ -373,14 +373,14 @@
             this.chart2.ChartAreas.Add(chartArea2);
             legend2.Name = "Legend1";
             this.chart2.Legends.Add(legend2);
-            this.chart2.Location = new System.Drawing.Point(545, 240);
+            this.chart2.Location = new System.Drawing.Point(551, 240);
             this.chart2.Name = "chart2";
             series2.ChartArea = "ChartArea1";
             series2.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Pie;
             series2.Legend = "Legend1";
             series2.Name = "Faturalar";
             this.chart2.Series.Add(series2);
-            this.chart2.Size = new System.Drawing.Size(333, 219);
+            this.chart2.Size = new System.Drawing.Size(334, 219);
             this.chart2.TabIndex = 14;
             this.chart2.Text = "chart2";
             // 

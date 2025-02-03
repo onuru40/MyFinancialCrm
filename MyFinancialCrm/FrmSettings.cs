@@ -58,7 +58,7 @@ namespace MyFinancialCrm
                         updatedUserValue.Password = txtPasswordAgain.Text;
                         db.SaveChanges();
 
-                        MessageBox.Show("Şifre Güncelleme Başarılı");
+                        MessageBox.Show("Şifre Güncelleme Başarılı", "Başarılı", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         txtPassword.Clear();
                         txtPasswordAgain.Clear();
                     }
