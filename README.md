@@ -18,5 +18,17 @@ Banka Formu
 
 ![image](https://github.com/user-attachments/assets/9637bacb-93da-46e5-ae3a-c7edf179bc04)
 
+Dashboard
+
+![image](https://github.com/user-attachments/assets/9898ac99-0377-4837-a829-4dad2c3e8088)
+
+Ayarlar
+
+![image](https://github.com/user-attachments/assets/7e26509d-9239-4c47-9073-f5832cdafd57)
+
+
+
+
+
 
 
