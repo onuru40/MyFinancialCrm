@@ -7,4 +7,11 @@ Crm uygulaması kullanıcılara, bankalardaki bakiyeleri, fatura giderlerini, ba
 ✔Giriş Formu
 
 Crm uygulamasına giriş formudur. Kullanıcılar buradan giriş yaparak banka bilgilerini kontrol edebilir.
+
 ![image](https://github.com/user-attachments/assets/1da66f22-65af-4e8d-874d-1af20e39184c)
+
+Banka Formu
+
+![image](https://github.com/user-attachments/assets/247aa93c-9545-4096-ad91-0a7dc69b0669)
+
+
