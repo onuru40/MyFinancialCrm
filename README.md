@@ -8,7 +8,7 @@ Crm uygulaması kullanıcılara, bankalardaki bakiyeleri, fatura giderlerini, ba
 
 Crm uygulamasına giriş formudur. Kullanıcılar buradan giriş yaparak banka bilgilerini kontrol edebilir.
 
-![image](https://github.com/user-attachments/assets/1da66f22-65af-4e8d-874d-1af20e39184c)
+![image](https://github.com/user-attachments/assets/fec41c5c-5865-4759-a9bf-370be0429fb0)
 
 Banka Formu
 
